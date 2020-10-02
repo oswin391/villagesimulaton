@@ -1,0 +1,9 @@
+1.copy the code from the project code file .
+2.past it in the any of the code intepritor.
+3.run the code.
+4.the code runs the night vission of the village simulates.
+the software which use are:
+                        code blocks
+ 
+
+all the information are given in the project report given in the file.
